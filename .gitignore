@@ -1,0 +1,8 @@
+# any private keys disallow
+*-key.pem
+*.key
+# shared_vault
+shared_vault
+### VS Code ###
+.vscode/
+build/
